@@ -1,0 +1,28 @@
+{
+  "projectName": "Yui",
+  "projectOwner": "jack-rainbow",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "jack-rainbow",
+      "name": "jack-rainbow",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20502762?v=4",
+      "contributions": [
+        "doc",
+        "bug",
+        "example",
+        "ideas",
+        "maintenance",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
